@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("push test! use ssh");
         System.out.println("pull test!");
         System.out.println("pull test!2");
+        System.out.println("gitee test!");
     }
 }
