@@ -18,5 +18,6 @@ public class GitTest {
         System.out.println("pull test!2");
         System.out.println("gitee test!");
         System.out.println("gitee test pull!");
+        System.out.println("TortoiseGit test!");
     }
 }
