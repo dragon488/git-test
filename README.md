@@ -29,3 +29,4 @@ git 学习操作
 #### 特技
 
 2022-7-24 16:00 test1
+TortoiseGit test pull
